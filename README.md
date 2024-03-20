@@ -1,5 +1,3 @@
-Sure! Here's a sample README.md file for the Darkdump project:
-
 # Darkdump
 
 Darkdump is a command-line tool for searching the deep web for specific keywords or strings. It provides a simple and efficient way to explore the hidden corners of the internet and retrieve relevant information.
