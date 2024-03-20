@@ -58,3 +58,5 @@ Darkdump uses the following libraries:
 - [Requests](https://docs.python-requests.org/en/latest/)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 - [Fake User Agent](https://pypi.org/project/fake-useragent/)
+
+This darkDump version is forked from [josh0xA](https://github.com/josh0xA/darkdump) project
